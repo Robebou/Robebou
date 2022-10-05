@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Software Engineer student at Efrei Paris. <br>👯 I’m looking for a 5 months intership starting 1st november<br>🤝 Free feel to add me on LinkedIn : https://www.linkedin.com/in/guillaume-th%C3%A9ret-2089191a0/<br>
+🔭 I'm a Software Engineer student at Efrei Paris. <br>👯 I’m looking for a 5 months internship starting 1st november<br>🤝 Free feel to add me on LinkedIn : https://www.linkedin.com/in/guillaume-th%C3%A9ret-2089191a0/<br>
 
 
 # 💻 Tech Stack:
