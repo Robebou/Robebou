@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I'm a Software Engineer student at Efrei Paris. <br>🤝 Free feel to add me on LinkedIn : https://www.linkedin.com/in/guillaume-th%C3%A9ret-2089191a0/<br>
-
-
 # 💻 Tech Stack:
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
 
